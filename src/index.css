@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+    --font-lora: "Lora", serif;
+    --font-work-sans: "Work Sans", sans-serif;
+
+    --color-primary: #842212;
+    --color-primary-dark: #3F1009; 
+    --color-primary-light: #671A0E;
+    --color-secondary: #F2E1D3;
+    --color-secondary-dark: #E4C1A5;
+    --color-background: #E4C1A5;
+}
+
+body {
+    background-color: #E4C1A5;
+}
